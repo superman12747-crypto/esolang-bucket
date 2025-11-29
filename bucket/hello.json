@@ -1,10 +1,9 @@
 {
   "version": "1.0",
-  "description": "Test app to prove bucket works",
+  "description": "Test manifest to prove bucket works",
   "homepage": "https://example.com",
   "license": "MIT",
-  "url": "https://github.com/ScoopInstaller/Main/archive/refs/heads/master.zip",
-  "hash": "2B3CB447DC37D25DF50342E60515375F6319DBF96DEACF339F27F3D8C3FFDF9C",
-  "extract_dir": "Main-master",
+  "url": "https://raw.githubusercontent.com/git/git/master/README.md",
+  "hash": "skip",
   "bin": "README.md"
 }
