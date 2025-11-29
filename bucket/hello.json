@@ -4,7 +4,7 @@
   "homepage": "https://example.com",
   "license": "MIT",
   "url": "https://github.com/ScoopInstaller/Main/archive/refs/heads/master.zip",
-  "hash": "skip",
+  "hash": "2b3cb447dc37d25df50342e60515375f6319dbf96deacf339f27f3d8c3ffdf9c",
   "extract_dir": "Main-master",
   "bin": "README.md"
 }
