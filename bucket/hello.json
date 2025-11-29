@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "description": "Test app to prove bucket works",
+  "homepage": "https://example.com",
+  "license": "MIT",
+  "url": "https://github.com/ScoopInstaller/Main/archive/refs/heads/master.zip",
+  "hash": "skip",
+  "extract_dir": "Main-master",
+  "bin": "README.md"
+}
