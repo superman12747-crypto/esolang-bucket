@@ -4,6 +4,6 @@
   "homepage": "https://example.com",
   "license": "MIT",
   "url": "https://raw.githubusercontent.com/git/git/master/README.md",
-  "hash": "skip",
+  "hash": "4dddaa908cc3407fe752784073847ca4ba949793800a686bed696f93a64534a0",
   "bin": "README.md"
 }
